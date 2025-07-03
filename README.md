@@ -2,7 +2,7 @@
 
 A simple demonstration of implementing dark and light mode switching using TailwindCSS v4 with custom variants.
 
-## 🌟 Features SFAFSFAFS SFASF
+## 🌟 Features
 
 - ✅ Dark/Light mode toggle functionality
 - ✅ Respects system color scheme preference
@@ -24,15 +24,15 @@ A simple demonstration of implementing dark and light mode switching using Tailw
    cd tryb_jasny-ciemny-tailwindcss-
    ```
 
-2. Open `indexx.html` in your browser:
+2. Open `index.html` in your browser:
    ```bash
    # Using Python's built-in server
    python3 -m http.server 8000
-   # Then open http://localhost:8000/indexx.html
+   # Then open http://localhost:8000/index.html
    
    # Or directly open the file
-   open indexx.html  # macOS
-   start indexx.html # Windows
+   open index.html  # macOS
+   start index.html # Windows
    ```
 
 ## 🛠️ Technical Implementation
@@ -59,7 +59,7 @@ The JavaScript implementation:
 
 ```
 .
-├── indexx.html     # Main HTML file
+├── index.html      # Main HTML file
 ├── input.css       # TailwindCSS input with custom variants
 ├── output.css      # Generated TailwindCSS output
 └── README.md       # This file
