@@ -2,7 +2,7 @@
 
 A simple demonstration of implementing dark and light mode switching using TailwindCSS v4 with custom variants.
 
-## 🌟 Features
+## 🌟 Features SFAFSFAFS
 
 - ✅ Dark/Light mode toggle functionality
 - ✅ Respects system color scheme preference
