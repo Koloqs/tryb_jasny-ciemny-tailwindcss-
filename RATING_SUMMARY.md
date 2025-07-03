@@ -28,11 +28,11 @@
 - ✅ **System theme detection** and preference respect
 - ✅ **Clean, semantic HTML** structure
 - ✅ **Working demo** with both light and dark modes
+- ✅ **Smooth transitions** for theme switching
 
 ## ⚠️ Areas for Improvement
 
 - Theme persistence across page reloads
-- Smooth animations for theme transitions
 - Build process and development tooling
 - Internationalization considerations
 
