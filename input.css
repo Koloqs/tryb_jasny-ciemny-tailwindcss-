@@ -1,7 +1,6 @@
 @import "tailwindcss";
 @custom-variant dark (&:where([data-theme=dark], [data-theme=dark] *));
 
-/* Custom CSS dla płynnych animacji dark mode */
 * {
   transition: background-color 0.5s ease-in-out, 
               color 0.5s ease-in-out, 
